@@ -1,3 +1,3 @@
-## Fun and useful projects with Python
+## Forked Python Engineer's Snake AI code to poke arround and learn PyTorch
 
-You can find the corresponding tutorials on my channel: [https://www.youtube.com/c/PythonEngineer](https://www.youtube.com/c/PythonEngineer)
+See his chanel here: [https://www.youtube.com/c/PythonEngineer](https://www.youtube.com/c/PythonEngineer)
